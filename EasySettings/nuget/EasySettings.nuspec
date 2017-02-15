@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>EasySettings</id>
+    <id>Rosenbjerg.EasySettings</id>
     <version>1.0.0.0</version>
-    <title>EasySettings</title>
+    <title>EasySettings - Minimalist settings manager</title>
     <authors>Malte Rosenbjerg</authors>
     <owners>Rosenbjerg Softworks</owners>
     <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
